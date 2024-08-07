@@ -25,7 +25,7 @@ public class ArrayListCode {
 
         //remove();
         al.remove(1);
-        System.out.println("After removing element from array list- "+al); //Size of array is- 5
+        System.out.println("After removing element from arra y list- "+al); //Size of array is- 5
 
         //Insert a new element
         al.add(2, "Java");
