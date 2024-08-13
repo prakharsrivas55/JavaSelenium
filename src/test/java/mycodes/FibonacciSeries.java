@@ -8,7 +8,7 @@ public class FibonacciSeries {
 
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter any number: ");
-        int n=sc.nextInt();
+        int n= sc.nextInt();
         int n1=0, n2=1;
         int sum=0;
         System.out.print(n1+" "+n2);
